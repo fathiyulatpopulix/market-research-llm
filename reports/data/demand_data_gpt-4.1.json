@@ -1,0 +1,437 @@
+{
+    "model": "gpt-4.1",
+    "prices": [
+        749,
+        999,
+        1249,
+        1499
+    ],
+    "purchase_rates": [
+        0.5,
+        0.7,
+        0.5,
+        0.6
+    ],
+    "n_responses": 80,
+    "survey_data": [
+        {
+            "price": 749,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 749,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 749,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 749,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 749,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 749,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 749,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 749,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 749,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 749,
+            "response": "no, i did not purchase any laptop. the surface laptop 3 looked nice, but i decided not to buy it this time.",
+            "decision": false
+        },
+        {
+            "price": 749,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 749,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 749,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 749,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 749,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 749,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 749,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 749,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 749,
+            "response": "yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 749,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 999,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 999,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 999,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 999,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 999,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 999,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 999,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 999,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 999,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 999,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 999,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 999,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 999,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 999,
+            "response": "yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 999,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 999,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 999,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 999,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 999,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 999,
+            "response": "yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 1249,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 1249,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 1249,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 1249,
+            "response": "customer: no, i did not purchase any laptop. the surface laptop 3 looked nice, but i decided not to buy it.",
+            "decision": false
+        },
+        {
+            "price": 1249,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 1249,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 1249,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 1249,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 1249,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 1249,
+            "response": "customer: no, i did not purchase any laptop. the surface laptop 3 looked nice, but i decided not to buy it.",
+            "decision": false
+        },
+        {
+            "price": 1249,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 1249,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 1249,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 1249,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 1249,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 1249,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 1249,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 1249,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 1249,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 1249,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 1499,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 1499,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 1499,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 1499,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 1499,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 1499,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 1499,
+            "response": "customer: no, i did not purchase any laptop. the surface laptop 3 looked nice, but the price was a bit high compared to my budget.",
+            "decision": false
+        },
+        {
+            "price": 1499,
+            "response": "customer: no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 1499,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 1499,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 1499,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 1499,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 1499,
+            "response": "customer: no, i did not purchase any laptop. the surface laptop 3 looked nice, but i decided not to buy it.",
+            "decision": false
+        },
+        {
+            "price": 1499,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 1499,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 1499,
+            "response": "yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 1499,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 1499,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        },
+        {
+            "price": 1499,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 1499,
+            "response": "customer: yes, i purchased the surface laptop 3.",
+            "decision": true
+        }
+    ],
+    "linear_regression": {
+        "slope": 3.999999999999999e-05,
+        "intercept": 0.53004,
+        "r_squared": 0.018181818181818184,
+        "p_value": 0.8651600275073515
+    },
+    "study_result": "\u274c Hypothesis not supported: No significant downward trend.",
+    "token_usage": [
+        {
+            "model": "gpt-4.1",
+            "prompt": 8360,
+            "completion": 1026
+        },
+        {
+            "model": "gpt-4o-mini",
+            "prompt": 6386,
+            "completion": 480
+        }
+    ]
+}

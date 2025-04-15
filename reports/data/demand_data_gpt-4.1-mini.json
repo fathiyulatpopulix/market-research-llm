@@ -1,0 +1,437 @@
+{
+    "model": "gpt-4.1-mini",
+    "prices": [
+        749,
+        999,
+        1249,
+        1499
+    ],
+    "purchase_rates": [
+        0.55,
+        0.2,
+        0.15,
+        0.2
+    ],
+    "n_responses": 80,
+    "survey_data": [
+        {
+            "price": 749,
+            "response": "customer: yes, i purchased the surface laptop 3. the price fits within my budget, and the specifications like the intel core i5 processor, 8gb ram, and 128gb ssd are suitable for my needs. the 13.",
+            "decision": true
+        },
+        {
+            "price": 749,
+            "response": "yes, i purchased the surface laptop 3. it fits within my budget and has the specifications i need for work and personal use.",
+            "decision": true
+        },
+        {
+            "price": 749,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 749,
+            "response": "yes, i purchased the surface laptop 3. it fits my budget and has the specs i need for work and personal use.",
+            "decision": true
+        },
+        {
+            "price": 749,
+            "response": "customer: no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 749,
+            "response": "no, i did not purchase any laptop today. i was just browsing and comparing options.",
+            "decision": false
+        },
+        {
+            "price": 749,
+            "response": "yes, i purchased the surface laptop 3. it fits my needs perfectly with its intel core i5 processor, 8gb ram, and 13.5-inch screen, and the price of $749 is within my budget.",
+            "decision": true
+        },
+        {
+            "price": 749,
+            "response": "customer: yes, i purchased the surface laptop 3. the price fits well within my budget, and the specifications like the intel core i5 processor, 8gb ram, and 128gb storage meet my needs for work and personal use.",
+            "decision": true
+        },
+        {
+            "price": 749,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 749,
+            "response": "customer: no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 749,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 749,
+            "response": "yes, i purchased the surface laptop 3. it fits my needs well with the intel core i5 processor, 8gb ram, and the 13.5-inch screen size, all at a reasonable price of $749.",
+            "decision": true
+        },
+        {
+            "price": 749,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 749,
+            "response": "customer: yes, i purchased the surface laptop 3. it fits my budget and has the features i need for work and personal use.",
+            "decision": true
+        },
+        {
+            "price": 749,
+            "response": "customer: yes, i purchased the surface laptop 3. it fits my needs with the intel core i5 processor, 8gb of ram, and the 13.5-inch screen size. the price of $749 is within my budget,",
+            "decision": true
+        },
+        {
+            "price": 749,
+            "response": "customer: no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 749,
+            "response": "customer: yes, i purchased the surface laptop 3. its specifications fit my needs and the price is within my budget.",
+            "decision": true
+        },
+        {
+            "price": 749,
+            "response": "yes, i purchased the surface laptop 3. it fits well within my budget and has the specifications i need for everyday use.",
+            "decision": true
+        },
+        {
+            "price": 749,
+            "response": "customer: yes, i purchased the surface laptop 3. it fits my needs well with the intel core i5 processor, 8gb of ram, and a 13.5-inch screen. the price of $749 is reasonable for my budget",
+            "decision": true
+        },
+        {
+            "price": 749,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 999,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 999,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 999,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 999,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 999,
+            "response": "yes, i purchased the surface laptop 3. it fits my needs well with the intel core i5 processor, 8gb of ram, and the 13.5-inch screen size. the price of $999 is reasonable for my budget.",
+            "decision": true
+        },
+        {
+            "price": 999,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 999,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 999,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 999,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 999,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 999,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 999,
+            "response": "customer: yes, i purchased the surface laptop 3. it fits well within my budget and has the features i need for work and everyday use. the intel core i5 processor and 8gb ram, along with the 13.5-inch",
+            "decision": true
+        },
+        {
+            "price": 999,
+            "response": "customer: no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 999,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 999,
+            "response": "customer: yes, i purchased a surface laptop 3. it fits my budget and has the specs i was looking for.",
+            "decision": true
+        },
+        {
+            "price": 999,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 999,
+            "response": "customer: yes, i purchased the surface laptop 3. it fits my needs well with its intel core i5 processor, 8gb of ram, and 128gb ssd, and the price of $999 is within my budget.",
+            "decision": true
+        },
+        {
+            "price": 999,
+            "response": "customer: no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 999,
+            "response": "customer: no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 999,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1249,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 1249,
+            "response": "no, i did not purchase any laptop.",
+            "decision": false
+        },
+        {
+            "price": 1249,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1249,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1249,
+            "response": "customer: yes, i purchased the surface laptop 3. the price and specifications fit my needs and budget.",
+            "decision": true
+        },
+        {
+            "price": 1249,
+            "response": "customer: no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1249,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1249,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1249,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1249,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1249,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1249,
+            "response": "customer: yes, i purchased the surface laptop 3 with the intel core i5 processor, 8gb ram, 13.5-inch screen, and 128gb ssd for $1249.",
+            "decision": true
+        },
+        {
+            "price": 1249,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1249,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1249,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1249,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1249,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1249,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1249,
+            "response": "yes, i purchased the surface laptop 3. it fits my budget and has the specifications i need.",
+            "decision": true
+        },
+        {
+            "price": 1249,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1499,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1499,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1499,
+            "response": "customer: no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1499,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1499,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1499,
+            "response": "customer: yes, i purchased the surface laptop 3. it fits my needs with its intel core i5 processor, 8gb of ram, and the 13.5-inch screen size. the price of $1499 is within my budget",
+            "decision": true
+        },
+        {
+            "price": 1499,
+            "response": "customer: no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1499,
+            "response": "customer: yes, i purchased the surface laptop 3. the specifications and price fit my needs and budget well.",
+            "decision": true
+        },
+        {
+            "price": 1499,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1499,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1499,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1499,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1499,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1499,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1499,
+            "response": "no, i did not purchase any laptop during this visit.",
+            "decision": false
+        },
+        {
+            "price": 1499,
+            "response": "customer: yes, i purchased the surface laptop 3. the price fits within my budget, and the specifications like the intel core i5 processor, 8gb ram, and 13.5-inch screen size meet my needs.",
+            "decision": true
+        },
+        {
+            "price": 1499,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1499,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1499,
+            "response": "no, i did not purchase any laptop today.",
+            "decision": false
+        },
+        {
+            "price": 1499,
+            "response": "yes, i purchased the surface laptop 3. its price fits my budget, and the specifications like the intel core i5 processor, 8gb ram, and 13.5-inch screen size meet my needs.",
+            "decision": true
+        }
+    ],
+    "linear_regression": {
+        "slope": -0.00044000000000000007,
+        "intercept": 0.76956,
+        "r_squared": 0.5902439024390244,
+        "p_value": 0.23172667465346392
+    },
+    "study_result": "\u274c Hypothesis not supported: No significant downward trend.",
+    "token_usage": [
+        {
+            "model": "gpt-4.1-mini",
+            "prompt": 8360,
+            "completion": 1524
+        },
+        {
+            "model": "gpt-4o-mini",
+            "prompt": 6894,
+            "completion": 480
+        }
+    ]
+}
